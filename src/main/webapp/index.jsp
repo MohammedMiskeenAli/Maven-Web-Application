@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ashok IT Courses Demo</title>
+  <title>Sphoorthy Engineering College</title>
   <style>
     body {
       font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>🚀 Ashok IT Courses</h1>
+    <h1>Sphoorthy Engineering College</h1>
     <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
@@ -130,7 +130,7 @@
       <div class="course-desc">
         Learn Python, Django, REST APIs, React, and advanced deployment strategies for real-world projects.
       </div>
-      <a href="#" class="btn">Enroll Now</a>
+      <a href="#" class="btn">Join Now</a>
     </div>
 
     <div class="course-card">
